@@ -532,7 +532,7 @@ This project is developed for **educational and machine-learning practice purpos
 Computer Science & Engineering — Data Science
 
 * GitHub: https://github.com/prathameshdeoghare03
-* LinkedIn: `https://www.linkedin.com/in/prathamesh-deoghare-2524632b8/`
+* LinkedIn: https://www.linkedin.com/in/prathamesh-deoghare-2524632b8
 
 ---
 
